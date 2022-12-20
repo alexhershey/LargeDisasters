@@ -6,9 +6,9 @@ The motivation for this project is to determine if there are ways to predict dis
 
 # Questions:
 This analysis was to investigate three questions. Specifically:
-Are Female heads of households, households with people with disabilities, households with elderly people, working individuals or SNAP Recipients good indicators of the number of registrations received by a county in a disaster?
-Is there a meaningful way to sub-divide the data to reduce the variance
-Is there a relationship between the geographic characteristics of a county and the number of registrations received?
+1. Are Female heads of households, households with people with disabilities, households with elderly people, working individuals or SNAP Recipients good indicators of the number of registrations received by a county in a disaster?
+2. Is there a meaningful way to sub-divide the data to reduce the variance?
+3. Is there a relationship between the geographic characteristics of a county and the number of registrations received?
 
 
 # Imported Pre-Processing and Visualization libraries include:
